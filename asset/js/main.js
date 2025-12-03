@@ -2,6 +2,7 @@
 AOS.init({
   duration: 800,
   easing: "ease-in-sine",
+  once: true,
 });
 
 // Set the date we're counting down to
